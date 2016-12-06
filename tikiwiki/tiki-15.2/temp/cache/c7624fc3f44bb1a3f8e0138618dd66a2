@@ -1,0 +1,614 @@
+a:44:{i:0;a:3:{s:4:"help";s:539:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','article');return false;"><span class="icon icon-articles fa fa-newspaper-o fa-fw "   ></span></a>
+<strong>Article</strong>
+<em>article</em>
+
+			<a href="http://doc.tiki.org/PluginArticle" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher un champ d'un article
+</div>
+
+";s:4:"name";s:7:"ARTICLE";s:5:"title";s:7:"Article";}i:1;a:3:{s:4:"help";s:549:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','author');return false;"><span class="icon icon-pencil fa fa-pencil fa-fw "   ></span></a>
+<strong>Auteur</strong>
+<em>author</em>
+
+			<a href="http://doc.tiki.org/PluginAuthor" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Add popups and color coding that identifies authors
+</div>
+
+";s:4:"name";s:6:"AUTHOR";s:5:"title";s:6:"Auteur";}i:2;a:3:{s:4:"help";s:527:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','box');return false;"><span class="icon icon-box fa fa-list-alt fa-fw "   ></span></a>
+<strong>Boîte</strong>
+<em>box</em>
+
+			<a href="http://doc.tiki.org/PluginBox" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Create a formatted box with a title bar
+</div>
+
+";s:4:"name";s:3:"BOX";s:5:"title";s:6:"Boîte";}i:3;a:3:{s:4:"help";s:567:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','remarksbox');return false;"><span class="icon icon-comment fa fa-comment fa-fw "   ></span></a>
+<strong>Boîte de remarque</strong>
+<em>remarksbox</em>
+
+			<a href="http://doc.tiki.org/PluginRemarksBox" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display a comment, tip, note or warning box
+</div>
+
+";s:4:"name";s:10:"REMARKSBOX";s:5:"title";s:18:"Boîte de remarque";}i:4;a:3:{s:4:"help";s:554:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','calendar');return false;"><span class="icon icon-calendar fa fa-calendar fa-fw "   ></span></a>
+<strong>Calendrier</strong>
+<em>calendar</em>
+
+			<a href="http://doc.tiki.org/PluginCalendar" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher un calendrier et ses événements
+</div>
+
+";s:4:"name";s:8:"CALENDAR";s:5:"title";s:10:"Calendrier";}i:5;a:3:{s:4:"help";s:500:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','map');return false;"><span class="icon icon-map fa fa-map fa-fw "   ></span></a>
+<strong>Carte</strong>
+<em>map</em>
+
+			<a href="http://doc.tiki.org/PluginMap" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher une carte
+</div>
+
+";s:4:"name";s:3:"MAP";s:5:"title";s:5:"Carte";}i:6;a:3:{s:4:"help";s:526:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','center');return false;"><span class="icon icon-align-center fa fa-align-center fa-fw "   ></span></a>
+<strong>Centre</strong>
+<em>center</em>
+
+			<a href="http://doc.tiki.org/PluginCenter" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Centrer le texte
+</div>
+
+";s:4:"name";s:6:"CENTER";s:5:"title";s:6:"Centre";}i:7;a:3:{s:4:"help";s:537:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','quote');return false;"><span class="icon icon-quotes fa fa-quote-left fa-fw "   ></span></a>
+<strong>Citation</strong>
+<em>quote</em>
+
+			<a href="http://doc.tiki.org/PluginQuote" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Formater le texte comme une citation
+</div>
+
+";s:4:"name";s:5:"QUOTE";s:5:"title";s:8:"Citation";}i:8;a:3:{s:4:"help";s:542:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','code');return false;"><span class="icon icon-code fa fa-code fa-fw "   ></span></a>
+<strong>Code</strong>
+<em>code</em>
+
+			<a href="http://doc.tiki.org/PluginCode" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display code with syntax highlighting and line numbering
+</div>
+
+";s:4:"name";s:4:"CODE";s:5:"title";s:4:"Code";}i:9;a:3:{s:4:"help";s:553:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','comment');return false;"><span class="icon icon-comment fa fa-comment fa-fw "   ></span></a>
+<strong>Commentaire</strong>
+<em>comment</em>
+
+			<a href="http://doc.tiki.org/PluginComment" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display a comment area for a specified object
+</div>
+
+";s:4:"name";s:7:"COMMENT";s:5:"title";s:11:"Commentaire";}i:10;a:3:{s:4:"help";s:568:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','fade');return false;"><span class="icon icon-wizard fa fa-magic fa-fw "   ></span></a>
+<strong>Disparition graduelle</strong>
+<em>fade</em>
+
+			<a href="http://doc.tiki.org/PluginFade" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Créer un lien qui montre/cache le contenu intialement masqué
+</div>
+
+";s:4:"name";s:4:"FADE";s:5:"title";s:21:"Disparition graduelle";}i:11;a:3:{s:4:"help";s:540:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','div');return false;"><span class="icon icon-code fa fa-code fa-fw "   ></span></a>
+<strong>Div</strong>
+<em>div</em>
+
+			<a href="http://doc.tiki.org/PluginDiv" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Définir et formater des sections d'une page ou d'un texte
+</div>
+
+";s:4:"name";s:3:"DIV";s:5:"title";s:3:"Div";}i:12;a:3:{s:4:"help";s:547:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','split');return false;"><span class="icon icon-th-large fa fa-th-large fa-fw "   ></span></a>
+<strong>Eclater</strong>
+<em>split</em>
+
+			<a href="http://doc.tiki.org/PluginSplit" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Arrange content on a page into rows and columns
+</div>
+
+";s:4:"name";s:5:"SPLIT";s:5:"title";s:7:"Eclater";}i:13;a:3:{s:4:"help";s:539:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','sup');return false;"><span class="icon icon-superscript fa fa-superscript fa-fw "   ></span></a>
+<strong>Exposant</strong>
+<em>sup</em>
+
+			<a href="http://doc.tiki.org/PluginSup" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Appliquer une police exposant au texte
+</div>
+
+";s:4:"name";s:3:"SUP";s:5:"title";s:8:"Exposant";}i:14;a:3:{s:4:"help";s:548:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','file');return false;"><span class="icon icon-file fa fa-file-o fa-fw "   ></span></a>
+<strong>Fichier</strong>
+<em>file</em>
+
+			<a href="http://doc.tiki.org/PluginFile" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Link to a file that's attached or in a gallery or archive
+</div>
+
+";s:4:"name";s:4:"FILE";s:5:"title";s:7:"Fichier";}i:15;a:3:{s:4:"help";s:566:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','files');return false;"><span class="icon icon-copy fa fa-copy fa-fw "   ></span></a>
+<strong>Fichiers</strong>
+<em>files</em>
+
+			<a href="http://doc.tiki.org/PluginFiles" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	List files by ID, gallery or category, or show a slideshow of image files
+</div>
+
+";s:4:"name";s:5:"FILES";s:5:"title";s:8:"Fichiers";}i:16;a:3:{s:4:"help";s:525:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','rss');return false;"><span class="icon icon-rss fa fa-rss fa-fw "   ></span></a>
+<strong>Flux RSS</strong>
+<em>rss</em>
+
+			<a href="http://doc.tiki.org/PluginRSS" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display items from one or more RSS feeds
+</div>
+
+";s:4:"name";s:3:"RSS";s:5:"title";s:8:"Flux RSS";}i:17;a:3:{s:4:"help";s:561:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','group');return false;"><span class="icon icon-group fa fa-group fa-fw "   ></span></a>
+<strong>Groupe</strong>
+<em>group</em>
+
+			<a href="http://doc.tiki.org/PluginGroup" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher du contenu en fonction des groupes ou amis de l'utilisateur
+</div>
+
+";s:4:"name";s:5:"GROUP";s:5:"title";s:6:"Groupe";}i:18;a:3:{s:4:"help";s:513:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','html');return false;"><span class="icon icon-code fa fa-code fa-fw "   ></span></a>
+<strong>HTML</strong>
+<em>html</em>
+
+			<a href="http://doc.tiki.org/PluginHTML" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Ajouter du HTML à une page
+</div>
+
+";s:4:"name";s:4:"HTML";s:5:"title";s:4:"HTML";}i:19;a:3:{s:4:"help";s:536:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','img');return false;"><span class="icon icon-image fa fa-file-image-o fa-fw "   ></span></a>
+<strong>Image</strong>
+<em>img</em>
+
+			<a href="http://doc.tiki.org/PluginImg" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display one or more custom formatted images
+</div>
+
+";s:4:"name";s:3:"IMG";s:5:"title";s:5:"Image";}i:20;a:3:{s:4:"help";s:370:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','includetpl');return false;"><span class="icon icon-code_file fa fa-file-code-o fa-fw "   ></span></a>
+<strong>Include Template File</strong>
+<em>includetpl</em>
+
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Include a template file in a page
+</div>
+
+";s:4:"name";s:10:"INCLUDETPL";s:5:"title";s:21:"Include Template File";}i:21;a:3:{s:4:"help";s:536:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','include');return false;"><span class="icon icon-copy fa fa-copy fa-fw "   ></span></a>
+<strong>Inclure</strong>
+<em>include</em>
+
+			<a href="http://doc.tiki.org/PluginInclude" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Include a portion of another wiki page
+</div>
+
+";s:4:"name";s:7:"INCLUDE";s:5:"title";s:7:"Inclure";}i:22;a:3:{s:4:"help";s:526:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','module');return false;"><span class="icon icon-module fa fa-cogs fa-fw "   ></span></a>
+<strong>Insérer un Module</strong>
+<em>module</em>
+
+			<a href="http://doc.tiki.org/PluginModule" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher un module
+</div>
+
+";s:4:"name";s:6:"MODULE";s:5:"title";s:18:"Insérer un Module";}i:23;a:3:{s:4:"help";s:593:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','userlastlogged');return false;"><span class="icon icon-user fa fa-user fa-fw "   ></span></a>
+<strong>Last Login information</strong>
+<em>userlastlogged</em>
+
+			<a href="http://doc.tiki.org/PluginUserLastLogged" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Show the last login information for a given or current user
+</div>
+
+";s:4:"name";s:14:"USERLASTLOGGED";s:5:"title";s:22:"Last Login information";}i:24;a:3:{s:4:"help";s:558:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','mediaplayer');return false;"><span class="icon icon-play fa fa-play fa-fw "   ></span></a>
+<strong>Lecteur de Médias</strong>
+<em>mediaplayer</em>
+
+			<a href="http://doc.tiki.org/PluginMediaplayer" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Ajouter un lecteur média à une page
+</div>
+
+";s:4:"name";s:11:"MEDIAPLAYER";s:5:"title";s:18:"Lecteur de Médias";}i:25;a:3:{s:4:"help";s:570:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','userlink');return false;"><span class="icon icon-user fa fa-user fa-fw "   ></span></a>
+<strong>Lien utilisateur</strong>
+<em>userlink</em>
+
+			<a href="http://doc.tiki.org/PluginUserlink" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher un lien vers la page d'information d'un utilisateur
+</div>
+
+";s:4:"name";s:8:"USERLINK";s:5:"title";s:16:"Lien utilisateur";}i:26;a:3:{s:4:"help";s:547:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','articles');return false;"><span class="icon icon-articles fa fa-newspaper-o fa-fw "   ></span></a>
+<strong>Liste d&#039;articles</strong>
+<em>articles</em>
+
+			<a href="http://doc.tiki.org/PluginArticles" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher des articles
+</div>
+
+";s:4:"name";s:8:"ARTICLES";s:5:"title";s:16:"Liste d'articles";}i:27;a:3:{s:4:"help";s:528:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','dl');return false;"><span class="icon icon-list fa fa-list fa-fw "   ></span></a>
+<strong>Liste de définition</strong>
+<em>dl</em>
+
+			<a href="http://doc.tiki.org/PluginDL" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Créer une liste de définitions
+</div>
+
+";s:4:"name";s:2:"DL";s:5:"title";s:20:"Liste de définition";}i:28;a:3:{s:4:"help";s:559:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','grouplist');return false;"><span class="icon icon-group fa fa-group fa-fw "   ></span></a>
+<strong>Liste de groupes</strong>
+<em>grouplist</em>
+
+			<a href="http://doc.tiki.org/PluginGroupList" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Create a complete or filtered list of groups
+</div>
+
+";s:4:"name";s:9:"GROUPLIST";s:5:"title";s:16:"Liste de groupes";}i:29;a:3:{s:4:"help";s:545:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','fancylist');return false;"><span class="icon icon-list fa fa-list fa-fw "   ></span></a>
+<strong>Liste enjolivée</strong>
+<em>fancylist</em>
+
+			<a href="http://doc.tiki.org/PluginFancyList" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Create a formatted numbered list
+</div>
+
+";s:4:"name";s:9:"FANCYLIST";s:5:"title";s:16:"Liste enjolivée";}i:30;a:3:{s:4:"help";s:514:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','now');return false;"><span class="icon icon-history fa fa-clock-o fa-fw "   ></span></a>
+<strong>Now</strong>
+<em>now</em>
+
+			<a href="http://doc.tiki.org/PluginNow" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Show current date and time
+</div>
+
+";s:4:"name";s:3:"NOW";s:5:"title";s:3:"Now";}i:31;a:3:{s:4:"help";s:527:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','tabs');return false;"><span class="icon icon-th-large fa fa-th-large fa-fw "   ></span></a>
+<strong>Onglets</strong>
+<em>tabs</em>
+
+			<a href="http://doc.tiki.org/PluginTabs" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Disposer un contenu en onglets
+</div>
+
+";s:4:"name";s:4:"TABS";s:5:"title";s:7:"Onglets";}i:32;a:3:{s:4:"help";s:577:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','fullwidthtitle');return false;"><span class="icon icon-title fa fa-text-width fa-fw "   ></span></a>
+<strong>Set a Full-Width Page Title</strong>
+<em>fullwidthtitle</em>
+
+			<a href="http://doc.tiki.org/PluginFullWidthTitle" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Create a full page width title 
+</div>
+
+";s:4:"name";s:14:"FULLWIDTHTITLE";s:5:"title";s:27:"Set a Full-Width Page Title";}i:33;a:3:{s:4:"help";s:533:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','sub');return false;"><span class="icon icon-subscript fa fa-subscript fa-fw "   ></span></a>
+<strong>Souscrit</strong>
+<em>sub</em>
+
+			<a href="http://doc.tiki.org/PluginSub" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Appliquer une police indice au texte
+</div>
+
+";s:4:"name";s:3:"SUB";s:5:"title";s:8:"Souscrit";}i:34;a:3:{s:4:"help";s:579:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','groupstat');return false;"><span class="icon icon-group fa fa-group fa-fw "   ></span></a>
+<strong>Statistiques de groupe</strong>
+<em>groupstat</em>
+
+			<a href="http://doc.tiki.org/PluginGroupStat" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Afficher la répartition des utilisateurs dans les groupes
+</div>
+
+";s:4:"name";s:9:"GROUPSTAT";s:5:"title";s:22:"Statistiques de groupe";}i:35;a:3:{s:4:"help";s:562:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','mouseover');return false;"><span class="icon icon-comment fa fa-comment fa-fw "   ></span></a>
+<strong>Survol de souris</strong>
+<em>mouseover</em>
+
+			<a href="http://doc.tiki.org/PluginMouseover" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display hidden content by mousing over text
+</div>
+
+";s:4:"name";s:9:"MOUSEOVER";s:5:"title";s:16:"Survol de souris";}i:36;a:3:{s:4:"help";s:574:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','fancytable');return false;"><span class="icon icon-table fa fa-table fa-fw "   ></span></a>
+<strong>Table enjolivée</strong>
+<em>fancytable</em>
+
+			<a href="http://doc.tiki.org/PluginFancyTable" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Create a formatted table that can be filtered and sorted
+</div>
+
+";s:4:"name";s:10:"FANCYTABLE";s:5:"title";s:16:"Table enjolivée";}i:37;a:3:{s:4:"help";s:558:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','transclude');return false;"><span class="icon icon-copy fa fa-copy fa-fw "   ></span></a>
+<strong>Transposer</strong>
+<em>transclude</em>
+
+			<a href="Plugiciel Transposer" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Inclure le contenu d'une autre page avec certaines modifications
+</div>
+
+";s:4:"name";s:10:"TRANSCLUDE";s:5:"title";s:10:"Transposer";}i:38;a:3:{s:4:"help";s:520:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','sort');return false;"><span class="icon icon-sort-desc fa fa-sort-desc fa-fw "   ></span></a>
+<strong>Tri</strong>
+<em>sort</em>
+
+			<a href="http://doc.tiki.org/PluginSort" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Trier des lignes de texte
+</div>
+
+";s:4:"name";s:4:"SORT";s:5:"title";s:3:"Tri";}i:39;a:3:{s:4:"help";s:546:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','twitter');return false;"><span class="icon icon-twitter fa fa-twitter fa-fw "   ></span></a>
+<strong>Twitter</strong>
+<em>twitter</em>
+
+			<a href="http://doc.tiki.org/PluginTwitter" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display the activity for a twitter account
+</div>
+
+";s:4:"name";s:7:"TWITTER";s:5:"title";s:7:"Twitter";}i:40;a:3:{s:4:"help";s:541:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','flash');return false;"><span class="icon icon-video fa fa-file-video-o fa-fw "   ></span></a>
+<strong>Vidéo Flash</strong>
+<em>flash</em>
+
+			<a href="http://doc.tiki.org/PluginFlash" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Insérer un fichier vidéo ou audio
+</div>
+
+";s:4:"name";s:5:"FLASH";s:5:"title";s:12:"Vidéo Flash";}i:41;a:3:{s:4:"help";s:518:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','vimeo');return false;"><span class="icon icon-vimeo fa fa-vimeo-square fa-fw "   ></span></a>
+<strong>Vimeo</strong>
+<em>vimeo</em>
+
+			<a href="http://doc.tiki.org/PluginVimeo" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Embed a Vimeo video
+</div>
+
+";s:4:"name";s:5:"VIMEO";s:5:"title";s:5:"Vimeo";}i:42;a:3:{s:4:"help";s:535:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','youtube');return false;"><span class="icon icon-youtube fa fa-youtube fa-fw "   ></span></a>
+<strong>YouTube</strong>
+<em>youtube</em>
+
+			<a href="http://doc.tiki.org/PluginYouTube" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Embed a YouTube video in a page
+</div>
+
+";s:4:"name";s:7:"YOUTUBE";s:5:"title";s:7:"YouTube";}i:43;a:3:{s:4:"help";s:537:"
+	<a href="javascript:void(0);" onclick="needToConfirm=false;$.closeModal();popup_plugin_form('{{{area-id}}}','events');return false;"><span class="icon icon-calendar fa fa-calendar fa-fw "   ></span></a>
+<strong>Évènements</strong>
+<em>events</em>
+
+			<a href="http://doc.tiki.org/PluginEvents" onclick="needToConfirm=false;" target="tikihelp" class="tikihelp">
+			<span class="icon icon-help fa fa-question-circle fa-fw "   ></span>
+		</a>
+	
+
+<div class="plugin-desc" style="margin-left:30px">
+	Display events from calendars
+</div>
+
+";s:4:"name";s:6:"EVENTS";s:5:"title";s:12:"Évènements";}}
